@@ -15,15 +15,7 @@ A fun and interactive **Rock Paper Scissors game** built with Python’s `tkinte
 
 ---
 
-## 📷 Preview
 
-![image](https://github.com/user-attachments/assets/cf3d6cb6-30d2-4591-8e96-0e15f30174e4)
-
-![image](https://github.com/user-attachments/assets/a49bd7db-2c78-4ac4-9aa6-0238390ded8b)
-
-![image](https://github.com/user-attachments/assets/a7b9aae8-64dd-4fd6-90e0-e58ee4290a35)
-
-![image](https://github.com/user-attachments/assets/40573296-3a19-4454-9f08-6c27a35a58b2)
 
 
 ---
@@ -71,8 +63,8 @@ Pull requests are welcome! If you have ideas for improvements or want to fix som
 
 ## 👨‍💻 Author
 
-**Harsh**  
-B.Tech CSE (AIML) student passionate about Python, UI/UX design, and creating real-world solutions through fun and practical coding projects.
+**Yash**  
+B.Tech CSE (AI) student passionate about Python, UI/UX design, and creating real-world solutions through fun and practical coding projects.
 
 ---
 
